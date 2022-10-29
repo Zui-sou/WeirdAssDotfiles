@@ -1,4 +1,4 @@
- - [Test](##Test)
+ - [Test](#test)
 
 for shit to work for nvim:
 
@@ -31,92 +31,5 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 anything else i cant remember do 
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fucj
-ufkc
-sd
-a
-ads
-f
-as
-d
-f
-as
-df
-a
-s
-f
-as
-d
-f
-asd
-f
-a
-sd
-fas
 
-df
-af
-dsafa
-ds
-
-fasf
-as
-dfa
-s
-df
-a
-df
-ad
-sfa
-d
-f
-f
-f
-
-f
-
-f
-f
-f
-
-f
-f
-
-f
-f
-
-f
-f
-f
-
-f
-f
-
-f
-f
-
-f
-f
-f
-
-f
-f
-f
-
-f
-f
-f
-
-f
-
-##Test
+#Test
