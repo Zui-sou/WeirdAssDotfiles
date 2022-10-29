@@ -7,7 +7,7 @@
 :set softtabstop=4
 :set mouse=a
 
-call plug#begin('~/.config/nvim/plugged')
+call plug#begin('~/.stuffThatDosentNeedToBeSeen/nvim/plugged/')
 
 Plug 'https://github.com/vim-airline/vim-airline' " Status bar
 Plug 'https://github.com/ap/vim-css-color' " CSS Color Preview
