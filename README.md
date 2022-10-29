@@ -20,13 +20,15 @@ That is all
 
 ## Oh My Zsh
 
+Who's supprised, someone who enjoys ricing is using Oh My Zsh, crazy thought.
 
-To install: 
+Anyways jokes asside just make sure before you install OMZsh you have installed normal Zsh
+
 ```
 apt install zsh
-
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+
+The steps on how to install oh my zsh are [here](https://ohmyz.sh/#install)
 
 
 ## Nvim Stuff
