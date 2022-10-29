@@ -24,6 +24,11 @@ set encoding=UTF-8
 call plug#end()
 
 :colorscheme OceanicNext
+:highlight Normal guibg=NONE ctermbg=NONE
+:highlight EndOfBuffer guibg=NONE ctermbg=NONE
+:highlight LineNr guibg=NONE ctermbg=NONE
+
+
 
 nnoremap <A-f> :NERDTreeFocus<CR>
 nnoremap <A-t> :NERDTreeToggle<CR>
