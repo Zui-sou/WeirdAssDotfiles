@@ -1,0 +1,3 @@
+cd ~/.config/kitty rm 
+theme.conf
+ln -s ./kitty-themes/(theme_file.conf) ~/.config/kitty/theme.conf
