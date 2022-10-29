@@ -1,11 +1,34 @@
-[Nvim Stuff](#nvim-stuff)
-to install ohmyzsh:
+##Welcome to ricing where we try to do anything possible to make linux as unstable as possible!
 
-sudo apt install zsh
+My dotfiles for my ______ rice. Most of it will be cobbled together worse than a last minute family vacation but at least it works right?
+
+#Table of Contents
+
+ - [Default Applications](#defaultapps)
+
+ - [Oh My Zsh!](#oh-my-zsh)
+
+ - [Nvim Stuff](#nvim-stuff)
+
+
+## Default Apps
+
+I use kitty for my terminal, neovim as my editor, and vivaldi as my browser.
+
+That is all
+
+10/10 segment
+
+
+## Oh My Zsh
+
+
+To install: 
+```
+apt install zsh
 
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+```
 
 
 ## Nvim Stuff
