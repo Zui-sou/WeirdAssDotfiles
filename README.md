@@ -1,5 +1,4 @@
- - [Test](#test)
-
+[Nvim Stuff](#nvim-stuff)
 for shit to work for nvim:
 
 sudo apt install npm
@@ -30,6 +29,17 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-anything else i cant remember do 
 
-#Test
+###Nvim Stuff
+
+Some of the vim plugins require some packages but setting them up is pretty self explanitory.
+
+Packages for Tagbar: 
+'''
+apt install exubert-ctags
+'''
+
+Packages for COC
+''' 
+apt install npm snap && snap install node --classic --chanel=18
+```
