@@ -1,3 +1,5 @@
+ - [Test](#test)
+
 for shit to work for nvim:
 
 sudo apt install npm
@@ -29,3 +31,6 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 anything else i cant remember do 
+
+
+##Test
