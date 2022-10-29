@@ -1,4 +1,5 @@
 [Nvim Stuff](#nvim-stuff)
+
 for shit to work for nvim:
 
 sudo apt install npm
