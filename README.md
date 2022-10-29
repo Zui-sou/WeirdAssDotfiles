@@ -1,4 +1,4 @@
- - [Test](#test)
+ - [Test](https://youtube.com)
 
 for shit to work for nvim:
 
