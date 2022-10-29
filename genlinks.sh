@@ -1,6 +1,5 @@
-#Liinks repo and ~/.config files through black magic
+#Creates links between repo and ~/.config through black magic
 
-ln -sf ~/dotfiles/kitty/ ~/.config/ #Kitty Folder
-ln -sf ~/dotfiles/init.vim ~/.config/nvim/ #Nvim 
-ln -sf ~/dotfiles/.zshrc ~/.zshrc #Zsh
-
+ln -sf ~/dotfiles/init.vim ~/.config/nvim/init.vim				#Vim Settings
+ln -sf ~/dotfiles/.zshrc ~/.zshrc								#OhMyZsh Settings
+ln -sf ~/dotfiles/kitty ~/.config/

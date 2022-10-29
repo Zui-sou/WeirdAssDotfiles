@@ -1,1 +1,0 @@
-/home/maboroshi/dotfiles/init.vim
