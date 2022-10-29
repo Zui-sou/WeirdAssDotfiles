@@ -1,5 +1,3 @@
-# Welcome to ricing where we try to do anything possible to make linux as unstable as possible!
-
 My dotfiles for my ______ rice. Most of it will be cobbled together worse than a last minute family vacation but at least it works right?
 
 # Table of Contents
