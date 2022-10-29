@@ -30,7 +30,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
-###Nvim Stuff
+#Nvim Stuff
 
 Some of the vim plugins require some packages but setting them up is pretty self explanitory.
 
