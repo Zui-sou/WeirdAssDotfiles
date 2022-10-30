@@ -15,6 +15,7 @@ alias python='python3'
 alias 'cd.'='cd && clear'
 alias rmswap='rm -rf ~/.local/share/nvim/swap/ && echo "Done" | sleep .7 && clear'
 alias update='sudo apt update && sudo apt upgrade'
+alias neofetch='clear && neofetch --ascii ~/.ahegaoGirlAscii'
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load

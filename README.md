@@ -22,7 +22,7 @@ That is all
 
 Who's supprised, someone who enjoys ricing is using Oh My Zsh, crazy thought.
 
-Anyways jokes asside just make sure before you install OMZsh you have installed normal Zsh
+Anyways jokes aside just make sure you have installed Zsh before you install OMZsh
 
 ```
 apt install zsh
