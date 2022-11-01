@@ -16,6 +16,7 @@ alias 'cd.'='cd && clear'
 alias rmswap='rm -rf ~/.local/share/nvim/swap/ && echo "Done" | sleep .7 && clear'
 alias update='sudo apt update && sudo apt upgrade'
 alias neofetch='clear && neofetch --ascii ~/.ahegaoGirlAscii'
+alias format='sudo ./.format.sh'
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -106,3 +107,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+unimatrix -w -s 96
+neofetch --ascii ~/.ahegaoGirlAscii | lolcat

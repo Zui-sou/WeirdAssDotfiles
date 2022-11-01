@@ -31,6 +31,8 @@ call plug#end()
 
 "Other Themes, OceanicNext
 :colorscheme OceanicNext
+
+" Transparency
 :highlight Normal guibg=NONE ctermbg=NONE
 :highlight EndOfBuffer guibg=NONE ctermbg=NONE
 :highlight LineNr guibg=NONE ctermbg=NONE
