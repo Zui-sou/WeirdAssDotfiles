@@ -1,6 +1,12 @@
-My dotfiles for my ______ rice. Most of it will be cobbled together worse than a last minute family vacation but at least it works right?
+My dotfiles for my Arch Linux rice with Hyprland. Most of it will be cobbled together worse than a last minute family vacation but at least it works right?
+
+# WARNING
+
+Leave all the files in ~/WeirdAssDotfiles/ or else genlinks.sh will not work. If you do change the directory you will have to edit the links script.
 
 # Table of Contents
+
+ - [Required Packages](#required-packages)
 
  - [Default Applications](#default-apps)
 
@@ -8,6 +14,11 @@ My dotfiles for my ______ rice. Most of it will be cobbled together worse than a
 
  - [Nvim Stuff](#nvim-stuff)
 
+## Required Packages
+
+```
+pacman -Syu waybar swaylock sddm
+```
 
 ## Default Apps
 
@@ -25,7 +36,7 @@ Who's supprised, someone who enjoys ricing is using Oh My Zsh, crazy thought.
 Anyways jokes aside just make sure you have installed Zsh before you install OMZsh
 
 ```
-apt install zsh
+pacman -Syu zsh
 ```
 
 The steps on how to install oh my zsh are [here](https://ohmyz.sh/#install)
@@ -37,18 +48,16 @@ Some of the vim plugins require some packages but setting them up is pretty self
 
 Packages for Tagbar: 
 ```
-apt install exubert-ctags
+pacman -Syu ctags
 ```
 
 Packages for COC
 ``` 
-apt install npm snap && snap install node --classic --chanel=18
+yay nodejs yarn
 ```
 
 Once COC is running with NodeJS, go into the COC directory and run:
 ```
-npm install yarn
-
 yarn install
 
 yarn build
