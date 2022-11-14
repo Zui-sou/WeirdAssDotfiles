@@ -6,3 +6,4 @@
 ln -sf ~/WeirdAssDotfiles/init.vim ~/.config/nvim/init.vim		#Vim Settings
 ln -sf ~/WeirdAssDotfiles/.zshrc ~/.zshrc						#OhMyZsh Settings
 ln -sf ~/WeirdAssDotfiles/kitty ~/.config/						#Kitty Folder
+ln -sf ~?/WeirdAssDotfiles/hypr ~/.config/
