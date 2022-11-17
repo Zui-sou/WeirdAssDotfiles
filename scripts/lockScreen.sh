@@ -2,9 +2,9 @@ swaylock \
 	--image ~/.config/hypr/lockscreen.PNG \
 	--indicator-radius 45 \
 	--indicator-idle-visible \
+	--indicator-thickness 8 \
 	--indicator-y-position 1000 \
 	--indicator-x-position 1840 \
-	--indicator-thickness 8 \
 	--inside-color ffffff00 \
 	--inside-clear-color ffffff00 \
 	--inside-caps-lock-color ffffff00 \
