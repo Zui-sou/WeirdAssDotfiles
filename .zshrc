@@ -19,6 +19,9 @@ alias format='sudo ./.format.sh'
 alias reboot='sudo reboot now'
 alias shutdown='shutdown now'
 alias pacman='sudo pacman'
+alias btctl='bluetoothctl'
+alias airpods='bluetoothctl connect 08:25:73:03:8F:B8'
+alias btdisconnect='bluetoothctl disconnect'
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
